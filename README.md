@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @andreanadenisec
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on web projects
 - 📫 Reach me at andreanadenisec@gmail.com
 
 <!---
