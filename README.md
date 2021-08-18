@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Andreana Denise
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning web development and UI/UX
+- 👋 Hi, I’m Andreana Denise, a 3rd Year Information Technology student
+- 👀 I’m interested in web development and UI/UX
+- 🌱 I’m currently learning JavaScript
 - 📫 Reach me at andreanadenisec@gmail.com
 
 <!---
