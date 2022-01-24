@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andreana Denise, a 3rd Year Information Technology student 
-- 👀 I’m interested in UI/UX and Data Science
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Python and Web3
 - 📫 Reach me at andreanadenisec@gmail.com
 
 <!---
