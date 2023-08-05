@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Andreana Denise, an Information Technology student 
+- 👋 Hi, I’m Andreana Denise, an IT Graduate from UST
 - 📫 Reach me at andreanadenisec@gmail.com
 
 <!---
