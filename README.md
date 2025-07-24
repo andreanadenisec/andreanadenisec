@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Andreana Denise, an IT Graduate from UST
+- 👋 Hi, I’m Andreana Denise, a Software QA Engineer
 - 📫 Reach me at andreanadenisec@gmail.com
 
 <!---
